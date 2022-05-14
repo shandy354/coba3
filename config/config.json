@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "shandy313",
+    "database": "db_challenge",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "db_challenge",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "root",
+    "database": "db_challenge",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
